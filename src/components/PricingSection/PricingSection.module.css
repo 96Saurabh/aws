@@ -1,0 +1,18 @@
+.pricing {
+    text-align: center;
+    padding: 30px;
+  }
+  
+  .price {
+    font-size: 24px;
+    color: #ff5722;
+  }
+  
+  .buyNow {
+    padding: 10px 20px;
+    background: #1b79e5;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  

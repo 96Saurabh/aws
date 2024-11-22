@@ -1,0 +1,42 @@
+.features {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 30px;
+  
+  color: #ffffff;
+}
+
+.imageContainer {
+  flex: 1;
+  padding-right: 20px;
+}
+
+.image {
+  max-width: 100%;
+  height: 67vh;
+  border-radius: 10px;
+}
+
+.textContainer {
+  flex: 2;
+  padding-left: 20px;
+}
+
+.textContainer h2 {
+  font-size: 40px;
+  color: orange;
+  margin-bottom: 20px;
+}
+
+.textContainer ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.textContainer ul li {
+  font-size: 24px;
+  margin: 10px 0;
+  text-align: justify; /* For a polished look */
+  line-height: 1.5;
+}
